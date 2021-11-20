@@ -40,11 +40,11 @@ D、体育技能教育
 ```
 ├── app                		# 整个项目的入口
 ├── clear              		# 文件清洗库
-  	├── main		   		# 文件清洗的入口
+  	├── main		   		  # 文件清洗的入口
   	├── startRun	   		# 文件清洗的框架
-  	├── clearTopic	   		# 文件清洗的具体实现
-  	├── tools		   		# 工具库
-  	├── conf		   		# 配置
+  	├── clearTopic	   	# 文件清洗的具体实现
+  	├── tools		   		  # 工具库
+  	├── conf		   		  # 配置
 └── blueprint          		# 蓝图模块
     ├── appBlueprint   		# 路由
     ├── encapsulateResult   # 封装返回结果
