@@ -13,10 +13,10 @@ def selectTypeOne(topicData):
         selectTopic = re.findall(r"(.*)A[、.;]?", topicData)
         selectResult = topicData[len(selectTopic[0]):]
         # 提取选项
-        select = re.findall(r"([A-Z][、.])", selectResult)
+        select = re.findall(r"([A-Z]?[、.])", selectResult)
         answer = []
         selectTrueNum = 0
-        selectContentItem["content"] = re.search("^\d{1,3}、?(.*)", selectTopic[0]).group(1)
+        selectContentItem["content"] = re.search("^\d{1,3}[、.]?(.*)", selectTopic[0]).group(1)
         for i in range(len(select)):
             selectItemData = {}
             if i == len(select) - 1:

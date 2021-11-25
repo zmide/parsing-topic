@@ -1,0 +1,6005 @@
+[
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "1.阴阳的最初含义是指"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "天地日月",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "动静变化",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "昼夜节律",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "日光向背",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "上下升降",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "2.阴阳中复有阴阳是指"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "阴阳的统一性",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "阴阳的交感性",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "阴阳的无限可分",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "阴阳的转化",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "阴阳的互根",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "3.五行之中的“木”不包括"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "六腑之胆",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "五官之目",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "五体之筋",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "五志之怒",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "五化之长",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "4.下列属于五行之“土”的是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "筋",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "血脉",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "肌肉",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "皮毛E骨",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "5.肝气横逆，犯脾犯胃，属于"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "木克土",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "木乘土",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "木侮土",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "母病及子",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "子病及母",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "6.下列不属于相乘关系传变的是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "脾病及肝",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "肝病及脾",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "肾病及心",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "心病及肺",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "肺病及肝",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "7.以昼夜分阴阳，上半夜为"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "阴中之阳",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "阳中之阳",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "阳中之阴",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "阴中之阴",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "以上都不是",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "8.“阴在内，阳之守也；阳在外，阴之使也”，说明了阴阳之间的关系是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "阴阳交感",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "阴阳对立制约",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "阴阳互根互用",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "阴阳消长平衡",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "阴阳互相转化",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "9.阴阳互相转化的内在依据是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "阴阳失调B阴阳互根",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "阴阳消长",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "阴阳平衡",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "阴阳交感",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "10.宇宙万物发生发展变化的前提是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "阴阳交感",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "阴阳互根",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "阴阳制约",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "阴阳消长",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "阴阳转化",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "11.下列属于子病及母的是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "肺病及肾B肝病及肾",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "心病及肾",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "脾病及肾",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "肝病及脾",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": 0,
+        "name": "多选题",
+        "content": [
+            "12.肺的所不胜是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": ".肝B.肾C.心",
+                "isanswer": true
+            },
+            {
+                "name": ".",
+                "content": "..肝",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "肾",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "心",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "脾",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "胃",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "13..根据情志相胜法，大怒时可用哪种情志去制约"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "喜B思",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "悲",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "恐E惊",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "14.五色中，属于木行的是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "青",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "赤",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "黄",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "白",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "黑",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "15.肾病及肝在五行学说中属于"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "相乘",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "相侮",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "相生",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "子病及母",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "母病及子",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "16.“孤阴”、“孤阳”是下列何项关系被破坏?（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "阴阳对立",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "阴阳互根",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "阴阳消长",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "阴阳转化",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "17.吵架后出现脘痛、便溏证属（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "木克土",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "土虚木乘",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "木乘土",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "以上都不是",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "18.下列何项说法正确?（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "心在液为泪",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "肺在液为汗",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "脾在液为涎",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "肾在液为尿",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "19.突然惊恐可致（）。"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "二便失禁",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "心神不安",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "遗精",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "以上都是",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "20.男女异诊，老少异治属（）。"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "因时制宜",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "因地制宜",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "因人制宜",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "以上都是",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "21.下述哪一项不属于望舌形的内容？（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "胖大",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "瘦薄",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "歪斜",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "裂纹",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "22.自汗多因（）。"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "阳气暴脱",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "气虚卫阳不固",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "阴虚阳亢",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "邪正相争",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "23.病人发热而恶寒明显，苔薄白而润，脉浮紧，证属（）。"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "表证",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "表寒证",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "表虚证",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "寒证",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "24.奠定中医学理论基础的古典医籍是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "《难经》",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "《神农本草经》",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "《黄帝内经》",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "《伤寒杂病论》",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "《本草纲目》",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "25.我国的医学分科始于"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "商代",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "秦代",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "周代",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "唐代",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "宋代",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "26.改正了古医书在人体解剖方面某些错误的古代医家是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "刘完素",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "陈言",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "吴有性",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "王清任",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "唐宗海",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "27.人体生命活动的主宰是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "肝",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "心",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "脾",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "肺",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "肾",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "28.阴阳中复有阴阳是指"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "阴阳的统一性",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "阴阳的交感性",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "阴阳的无限可分",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "阴阳的转化",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "阴阳的互根",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "29.下列属于五行之“土”的是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "筋",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "血脉",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "肌肉",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "皮毛E骨",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "30.“阴在内，阳之守也；阳在外，阴之使也”，说明了阴阳之间的关系是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "阴阳交感",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "阴阳对立制约",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "阴阳互根互用",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "阴阳消长平衡",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "阴阳互相转化",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "31.阴阳互相转化的内在依据是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "阴阳失调B阴阳互根",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "阴阳消长",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "阴阳平衡",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "阴阳交感",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "32.宇宙万物发生发展变化的前提是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "阴阳交感",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "阴阳互根",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "阴阳制约",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "阴阳消长",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "阴阳转化",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "33.“木火刑金”在五行学说中属于"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "相乘",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "相侮",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "相生",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "子病及母",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "母病及子",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "34.藏象学说主要是研究"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "脏腑生理",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "脏腑病理",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "脏腑生理病理之间的关系",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "脏腑生理病理及其相互关系",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "35.心主神志的基本概念是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "主宰人体生命活动的外在表现",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "协调人体的各种生理活动",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "主宰人体精神意识和思维活动",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "调节人体的情志",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "36.心在液为"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "涎",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "汗",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "津",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "唾",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "尿",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "37.肺主一身之气，主要取决于"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "生成宗气",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "调节气机",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "宣发卫气",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "肺的呼吸功能",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "肺主肃降",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "38.以下哪项不属于肺的肃降功能"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "排出体内浊气",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "将津液向下布散",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "吸入清气",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "肃清呼吸道异物",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "水液向下输送",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "39.称为“后天之本”的脏是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "心",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "脾",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "肾",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "肝",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "肺",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "40.脾为气血生化之源的生理基础是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "脾主升清",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "人以水谷为本",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "脾主统血",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "脾主运化水谷精微",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "脾主运化水液",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "41.脾主运化是指"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "运化水液",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "运化水湿",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "运化水谷精微",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "运化水谷和水液",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "化生血液",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "42.脾之华在"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "皮毛",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "筋",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "唇",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "四肢",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "爪",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "43.肝在志为"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "怒",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "思",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "悲",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "喜",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "恐",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "44.与情志抑郁关系最密切的是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "心不藏神",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "心血亏虚",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "肝失疏泄",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "肝升太过",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "肾精不足",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "45.具有促进脾升胃降功能的脏器是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "肺",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "脾",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "肝",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "肾",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "小肠",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "46.“朝百脉”是何脏的功能"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "肺",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "心",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "肝",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "肾",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "脾",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "47.既属六腑之一，又属奇恒之腑的是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "三焦",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "脑",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "胆",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "膀胱",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "心包",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "48.与大肠相表里的脏是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "肝",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "肾",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "脾",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "肺",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "心",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "49.“生痰之源’’是指"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "肾",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "胃",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "脾",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "肺",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "三焦",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "50.被称为“寒凉派”的代表医家是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "朱震亨",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "张从正",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "王清任",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "叶桂",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "刘完素",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "51.认为“病由邪生，邪去则正安”，并主张用药以攻邪为主的医家是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "刘完素",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "张从正",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "李杲",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "朱震亨",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "钱乙",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "52.中医学认为，构成人体的中心是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "五脏",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "六腑",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "奇恒之府",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "形体官窍",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "经络",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "53.中医学将人体具有温煦、推动、兴奋作用的物质及其功能确定为阳，这一认识体现了阴阳的哪一特性"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "相关性",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "普遍性",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "可分性",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "转化性",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "规定性",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "54.“阴在内，阳之守也；阳在外，阴之使也。”此语主要说明了阴阳的哪一关系（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "对立制约",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "互根互用",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "消长平衡",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "相互交感",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "相互转化",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "55.在医学领域中，下列何项功能属阳（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "滋润",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "抑制",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "凝聚",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "收敛",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "推动",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "56.阳偏胜形成的证候是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "实证",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "里证",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "实热证",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "实寒证",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "表证",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "57.“热者寒之”的治疗方法主要适用于（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "表证",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "虚热证",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "里证",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "实热证",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "实寒证",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "58.下列哪一项不属于五行之“金”（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "六腑之大肠",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "五体之皮毛",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "五志之恐",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "五化之收",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "五色之白",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "59.下列归属于五行之“水”的是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "恐",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "脉",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "肉",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "皮",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "怒",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "60.按五行生克的关系，肝为脾之（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "母",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "子",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "所胜",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "所不胜",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "以上都不是",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "61.具有“藏而不泻”特点的是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "五脏",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "六腑",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "奇恒之腑",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "五体",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "五液",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "62.“心主神明”是指心主宰人体的（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "生理活动",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "心理活动",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "生理",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "心理活动",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "精神意识活动",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "以上都不是",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "63.下列哪种说法是错误的）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "舌为心之苗",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "汗为心之液",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "心为神之舍",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "心其华在面",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "心为血之府",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "64.“肺朝百脉”是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "指肺助心行血",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "其功能与心主血脉一样",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "百脉会聚于肺",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "肺助心行血功能的结构基础",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "65.脾为“气血生化之源”的生理基础是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "脾化生水谷精微",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "脾主升清",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "脾主统血",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "脾为后天之本",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "人以水谷为本",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "66.脾的生理特性是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "喜燥恶湿主升",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "喜燥恶湿主降",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "喜润恶燥主降",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "喜润恶燥主升",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "以上都不是",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "67.对肝疏泄功能影响最大的情志活动是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "喜",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "怒",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "恐",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "惊",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "思",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "68.六淫中易侵犯人体上部和肌腠的外邪是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "风邪",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "寒邪",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "湿邪",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "燥邪",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "暑邪",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "69.下列哪项属于湿邪的性质（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "凝滞",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "粘滞",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "涩滞",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "瘀滞",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "动血",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "70.具有升散而又挟湿特性的邪气是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "湿邪",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "燥邪",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "热邪",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "暑邪",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "寒",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "71.六淫之中，唯一可直中少阴为病者，应属（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "燥邪",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "寒邪",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "暑邪",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "火邪",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "湿邪",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "72.七情太过，首先伤及（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "肝气",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "脾阳",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "肾精",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "心神",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "73.过饱主要损伤（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "心肾",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "肝肾",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "脾胃",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "心脾",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "心肺",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "74.劳力过度主要伤及（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "精",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "气",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "血",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "津液",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "神",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "75.中医学中成功地应用于辨证论治的第一部专书是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "《伤寒杂病论》",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "《黄帝内经》",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "《神农本草经》",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "《难经》",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "《新修本草》",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "76.人体是一个有机整体，具体体现在"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "人体结构的整体性",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "人体生命基本物质的同一性",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "人体功能活动的联系性",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "以上都是",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "77.具有升清功能的是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "心",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "肝",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "脾",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "肺",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "肾",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "78.在六淫中独见与夏季的邪气是："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "风邪",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "寒邪",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "署邪",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "湿邪",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "火邪",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "80._答案下列哪项不是心的生理功能或生理连属："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "主神明",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "主血脉",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "其华在面",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "主藏血",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "开窍于舌",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "81.在五行学说中，五季中的“长夏”应归属于"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "木",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "火",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "土",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "金",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "水",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "82.在六淫中，最易伤肺的邪气是："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "风邪",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "寒邪",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "暑邪",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "湿邪",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "燥邪",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "83.下列属于母子关系的是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "水和火",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "土和金",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "金和木",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "木和土",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "火和金",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "84.寒性收引可导致："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "阻滞气机",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "损伤阳气",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "耗气伤津",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "气机收敛",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "凝滞经脉",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "85.下列五行生克关系中哪项错误的："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "木克土",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "火生土",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "火克水",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "金生水",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "金克木",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "86.五行学说中的“木”的特性是："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "炎上",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "稼穑",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "润下",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "从革",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "曲直",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "87.阴阳在一定范围内的消长保持动态平衡称为："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "阴阳决离",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "阴平阳秘",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "阴阳对立",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "阴阳转化",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "以上均不是",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "88.有“先天之本”之称的是："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "胃",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "肝",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "脾",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "肺",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "肾",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "89.常为外感病邪致病先导的邪气是："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "热邪",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "风邪",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "寒邪",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "暑邪",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "燥邪",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "90.“六淫”是指："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "六气",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "六气的太过和不及",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "六种毒气",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "六种外感病邪的统称",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "风寒暑湿燥火",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": 0,
+        "name": "多选题",
+        "content": [
+            "91.中医学的两大最基本特点是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "整体观念、辨证论治",
+                "isanswer": true
+            },
+            {
+                "name": "、",
+                "content": "辨证论治",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "病、证C.人体结构的整体性",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "辨证论治",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "人体结构的整体性",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "辨证论治",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "阴阳",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "92.过怒主要影响："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "肺的呼吸功能",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "肝的疏泄功能",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "肝的藏血功能",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "肾的纳气功能",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "脾的运化功能",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "93.阴阳的转化是："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "绝对的",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "有条件的",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "必然的",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "属于量变的",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "偶然的",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "94.五行“相侮”，正确的是："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "木侮土",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "水侮火",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "金侮火",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "水侮木",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "土侮金",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "95..与水液代谢相关的脏腑是："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "心肝肾",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "肺脾肾",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "心肝脾",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "肝脾肾",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "脾胃肾",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "96.下列哪项属于湿邪的性质："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "凝滞",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "粘滞",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "涩滞",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "瘀滞",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "动血",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "97.胀痛多属："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "气滞",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "血瘀",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "湿邪阻滞",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "火邪窜络",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "气血不足",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "98.虚实在八纲中用以鉴别："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "病变性质",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "病变趋势",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "病变部位",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "发病原因",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "邪正盛衰",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "99.患者精神不振，健忘嗜睡，声低乏力，动作迟缓，谓之："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "得神",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "失神",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "假神",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "神智异常",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "神气不足",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "100.患者面色黄而虚浮，但其目不黄者，称称为："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "阳黄",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "阴黄",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "萎黄",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "黄胖",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "以上都不是",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "101.在六淫中，最易伤肺的邪气是："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "风邪",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "寒邪",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "署邪",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "湿邪",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "燥邪",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "102.望诊中黑色所主之病，哪一项是错误的："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "主寒",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "主痛",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "朱淤血",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "朱肾虚",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "主惊风",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "103.头两侧痛，病属："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "太阳经",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "阳明经",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "少阳经",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "厥阴经",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "太阴经",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "104.面黄鲜明如橘皮色，多是："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "寒湿瘀滞",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "湿热熏蒸",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "气血不荣",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "气滞血瘀",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "以上都不是",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "105.辨别表证和里证的要点，下列哪一项最主要："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "脉浮或不浮",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "舌苔白或黄",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "有无头身疼痛",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "有无恶寒发热",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "106.在六淫中独见与夏季的邪气是："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "风邪",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "寒邪",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "署邪",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "湿邪",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "火邪",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "107.大出血的病人，治疗原则应是："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "标本兼治",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "先本后标",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "先标后本",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "固本治标",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "108.寒性收引可导致："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "阻滞气机",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "损伤阳气",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "耗气伤津",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "气机收敛",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "凝滞经脉",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "109.以下哪一种是中药的四气："
+        ],
+        "answer": [
+            {
+                "name": "、",
+                "content": "热、平、淡B酸、辛、苦",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "热、平、淡B酸、辛、苦",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "热、平、淡B酸、辛、苦",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "热、平、淡B酸、辛、苦",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "热、平、淡B酸、辛、苦",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "热、平、淡B酸、辛、苦、咸C升降浮沉D温凉沉降E寒热温凉",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "110.不属于黄芪的适应证的是："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "脾气虚证",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "饮食积滞证",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "肺气虚证",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "气虚自汗证",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "中气不足证",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "111.“呕家圣药”是："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "生姜",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "紫苏",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "竹茹",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "半夏",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "藿香",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "112.中医方剂的组方原则是："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "虚实寒热",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "望闻问切",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "汤、丸、散、膏D.君、臣、佐",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "丸、散、膏D.君、臣、佐",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "丸、散、膏D.君、臣、佐",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "丸、散、膏",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "君、臣、佐",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "丸、散、膏D.君、臣、佐",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "丸、散、膏D.君、臣、佐",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "丸、散、膏D.君、臣、佐、使",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "随心所欲",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "113.下列哪些不是风寒感冒与风热感冒的鉴别要点："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "恶寒发热的轻重",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "脉象的浮与沉",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "汗出与否",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "口渴与否",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "舌苔的薄白与薄黄",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "114.回阳救逆的药物是:"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "小茴香",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "高良姜",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "附子",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "吴茱萸",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": 0,
+        "name": "多选题",
+        "content": [
+            "115.补益药中属于补气类的药组是:"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "人参、阿胶B、人参、白术",
+                "isanswer": true
+            },
+            {
+                "name": "、",
+                "content": "人参、阿胶",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "人参、白术",
+                "isanswer": true
+            },
+            {
+                "name": "、",
+                "content": "人参、阿胶B、人参、白术",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "西洋参、当归D、党参",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "人参、阿胶B、人参、白术",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "党参",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "人参、阿胶B、人参、白术",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "116.可治疗妇女断乳的药物是:"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "鸡内金",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "麦芽",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "神曲",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "山楂",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": 0,
+        "name": "多选题",
+        "content": [
+            "117.下列哪项作用是苦味药的作用:"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "行气、活血B、软坚、泻下C、通泄、降泄",
+                "isanswer": true
+            },
+            {
+                "name": "、",
+                "content": "行气、活血",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "软坚、泻下C、通泄、降泄",
+                "isanswer": true
+            },
+            {
+                "name": "、",
+                "content": "行气、活血B、软坚、泻下",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "通泄、降泄",
+                "isanswer": true
+            },
+            {
+                "name": "、",
+                "content": "行气、活血B、软坚、泻下C、通泄、降泄",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "收敛",
+                "isanswer": false
+            },
+            {
+                "name": "、",
+                "content": "行气、活血B、软坚、泻下C、通泄、降泄",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "118.麻黄、桂枝同用，属于七情中的"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "相须",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "相使",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "相畏",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "相杀",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "119.艾叶温经止血，尤宜于：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "寒性崩漏",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "热出血",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "胎动不安",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "除湿止痒",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "120.附子的功效为（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "回阳救逆",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "温经止血",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "散寒止痛",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "温肺化饮",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "121.全身“水液”运行的通道是：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "肺",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "脾",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "肾",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "三焦",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "膀胱",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "122.六腑共同的生理特点是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "化生精气",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "化生血液",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "化生津液",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "化生尿液",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "受盛传化水谷",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "123.主受纳腐熟水谷，有“水谷之海”之称的是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "肝",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "心",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "胃",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "肺",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "肾",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "124.具有统血功能，防止血液逸出脉外的是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "肝",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "心",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "脾",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "肺",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "肾",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "125.主汗液的是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "肝",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "心",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "脾",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "肺",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "肾",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "126.能维持人体体温，属于气的（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "推动作用",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "温煦作用",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "防御作用",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "营养作用",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "固摄作用",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "127.积于胸中之气的称为：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "元气",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "卫气",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "营气",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "宗气",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "邪气",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "128.元气根于（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "肝",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "心",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "脾",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "肺",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "肾",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "129.能化生血液，营养全身的气是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "元气",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "卫气",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "营气",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "宗气",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "邪气",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "130.关于精的概念，不正确的说法是：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "有广义和狭义之分",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "先天之精来源于父母",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "后天之精来源于水谷",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "能促进生长发育",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "就是精神",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "131.情志有七情，其中心在志为（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "喜",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "怒",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "思",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "悲",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "恐",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "132.肝在志为（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "喜",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "怒",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "思",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "悲",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "恐",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "133.下列哪项不是六淫致病的特点："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "季节性",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "地区性",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "传染性",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "转化性",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "外感性",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "134.称为“百病之长”的邪气是："
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "风邪",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "寒邪",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "暑邪",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "湿邪",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "燥邪",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "135.下列哪项属于湿邪的性质：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "凝滞",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "粘滞",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "为阳邪",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "易生风动血",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "干涩",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "136.只有外感而无内生的邪气是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "风邪",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "寒邪",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "暑邪",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "湿邪",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "燥邪",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "137.燥邪致病最易损伤人体的（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "肝",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "心",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "脾",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "肺",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "肾",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "138.具有善行而数变的是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "风邪",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "寒邪",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "暑邪",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "湿邪",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "燥邪（）",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "139.湿邪致病最易发生的季节是"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "春天仲",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "夏季",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "长夏",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "秋天",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "冬季",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "140.“疠气”是指：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "自然界之正气",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "人体内的精气",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "呼吸之气",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "有传染性的邪气",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "以上都不是",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "141.七情内伤正确的是：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "怒则气下弘",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "喜则气消",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "恐则气上",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "怒则气上",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "惊则气结",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "142.瘀血的致病特点错误的说法有：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "肿处刺痛",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "皮肤见青紫",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "拒按",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "痛处固定",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "面色苍白",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "143.望诊中，下列哪项不是得神的表现：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "两目精采",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "动作自如",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "反应灵敏",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "少气懒言",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "呼及平稳",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "145.中国人种的正常面色有：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "苍白隐隐",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "红黄隐隐",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "萎黄晦暗",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "黑而青紫",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "腊黄",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "146.望色中，见白色主：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "实证",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "热证",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "湿证",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "血瘀",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "脱血",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "147.望眼睛，如见白睛黄染，多为：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "湿热黄疸",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "风寒入侵",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "风热入侵",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "水湿内停",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "痰浊上犯",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "148.如见咽喉红肿而痛，多为：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "肺胃郁热",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "风寒入侵",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "水湿内停",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "痰浊上犯",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "瘀血阻滞",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "149.望舌苔，见黄苔主证为：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "寒证",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "表证",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "热证",
+                "isanswer": true
+            },
+            {
+                "name": "D",
+                "content": "痰湿内蕴",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "正常舌苔",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "150.闻诊，咳嗽为干咳无痰或痰粘者为：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "痰湿内蕴",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "风寒入侵",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "脾胃湿热",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "阴虚肺燥",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "以上都不是",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "151.以下与口臭无关的是：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "胃寒",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "胃热",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "消化不良",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "口腔不洁",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "牙疳",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "152.鼻流清涕无气味者为：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "外感风热",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "外感风寒",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "湿热上犯",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "风燥上犯",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "以上都不是",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "153.盗汗是：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "白天出汗",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "为阳虚",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "夜间出汗，为阴虚",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "外感风热",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "以上都不是",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "154.关于疼痛性质，正确的是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "胀痛是气血虚",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "刺痛是阳虚",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "冷痛是气滞",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "胀痛是气滞",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "灼痛是寒凝",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": 0,
+        "name": "多选题",
+        "content": [
+            "155.饥不欲食者，提示：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": ".脾胃湿热B.胃阴不足",
+                "isanswer": true
+            },
+            {
+                "name": ".",
+                "content": "..脾胃湿热",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "胃阴不足",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "胃火炽盛",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "胃强脾弱",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "以上都不是",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "156.自觉怕冷，加衣盖被或近火取暖不可以缓解者，称为（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "恶风",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "恶寒",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "畏寒",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "寒战",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "以上都不是",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "157.口咸，多因：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "胆火上炎",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "肝胃不和",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "脾胃有寒",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "肾虚",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "脾胃湿热",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "158.问妇女月经时，如痛经为刺痛者多因：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "血瘀",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "气滞",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "寒",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "虚",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "以上都不是",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "159.八纲辨证，以下不是实证是：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "身热面赤",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "小便失禁",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "便秘",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "寒战",
+                "isanswer": true
+            },
+            {
+                "name": "E",
+                "content": "疼痛拒按",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "160.以下属于阳虚的有：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "发热",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "口干",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "盗汗",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "形寒肢冷",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "小便黄赤",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "161.不属于肺阴虚的表现有：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "咳嗽痰少而粘",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "咳嗽痰多",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "盗汗",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "五心烦热",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "形体消瘦",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "162.以下不属于肝血虚的表现有：（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "头晕目眩",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "爪甲无华",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "视物模糊",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "妇女月经量少",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "面红目赤",
+                "isanswer": true
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "163.感冒的治疗原则是（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "滋阴益气",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "解表达邪",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "活血养血",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "温肾助阳",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "清肝泻火",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "164.感冒证属风寒犯表证，可选用（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "银翘散",
+                "isanswer": false
+            },
+            {
+                "name": "B",
+                "content": "荆防败毒散",
+                "isanswer": true
+            },
+            {
+                "name": "C",
+                "content": "保和丸",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "六味地黄丸",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "板蓝根颗粒",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 0,
+        "name": "单选题",
+        "content": [
+            "165.胃痛因情志不畅，证属肝气犯胃者应用代表方（）"
+        ],
+        "answer": [
+            {
+                "name": "A",
+                "content": "柴胡疏肝散",
+                "isanswer": true
+            },
+            {
+                "name": "B",
+                "content": "二陈汤",
+                "isanswer": false
+            },
+            {
+                "name": "C",
+                "content": "归脾丸",
+                "isanswer": false
+            },
+            {
+                "name": "D",
+                "content": "龙胆泻肝丸",
+                "isanswer": false
+            },
+            {
+                "name": "E",
+                "content": "葛根芩连汤",
+                "isanswer": false
+            }
+        ]
+    },
+    {
+        "content": "阴阳互根是阴阳转化的内在根据。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "五行之间“所胜”与“所不胜”的关系，即是相乘关系。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "事物的阴阳属性是相对的而不是绝对的。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "阴阳双方对立制约的结果，使事物取得了动态平衡。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "阴阳的转化只是一定条件下的突变。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "五行，即木火土金水五种基本物质。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "五行相生为事物发展变化的正常现象，相克则为异常变化。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "中医学理论体系是以整体观念为指导思想的。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "藏象学说的主要特点，是以五脏为中心的整体观。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "肝的生理特点是主升主动，故肝气下陷，可致内脏下垂。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "肺的呼吸功能需要肾的纳气作用来协助。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "肾阳是人体阳气的根本，对机体各脏腑组织起着温煦、生化的作用。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "中医学认识疾病和治疗疾病的基本思路是辨证论治（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "阳损及阴，阴损及阳，是阴阳互根互用关系在病理方面的体现（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "预防和治疗疾病的基本原则是补益正气（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "以补阴药为主，适当配伍补阳药的方法属于阴中求阳（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "五脏、六腑、奇恒之腑区别的主要依据是解剖形态的差异（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "肺主气功能的核心是主呼吸（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "脾统血的机制主要是脾气的固摄作用（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "维持人体内脏位置的相对恒定，主要是脾气的作用（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "女子的月经和男子精液的正常排泄是肝肾两脏配合作用的结果（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "判断机体生长发育状况和衰老程度的客观标志是齿、骨、发（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "心神的物质基础是精（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "常引起筋脉拘挛、屈伸不利、腠理闭塞的邪气是寒邪（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "导致着痹发生的主要邪气是寒邪（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "过劳则易致气结（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "人体的各个部分各个脏腑之间互相独立，没有必然的内在功能联系。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "中医认为，人体的呼吸功能仅为肺所主，与其它脏腑无关。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "关于阴阳，凡是沉静的、下降的、寒冷的、阴暗的统属于阴的范畴。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "阴虚生热，阳虚生寒。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "心在液为汗，肝在液为泪。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "气为血帅，是指气能生血，气能行血，气能撮血。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "三七具有活血止血作用。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "人参、黄芪、党参属于补气药。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "阿胶属于补血药，生大黄能导泻。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "丹参、红花具有活血化瘀作用。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "肝开窍于目，心开窍于舌。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "肾在体合骨，其华在发。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "肺与小肠相表里，心与大肠相表里。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "饮食失宜包括饮食不节、饮食不洁、饮食偏嗜。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "《伤寒杂病论》的作者是孙思邈。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "《神农本草经》是我国现存最早的药物学专著。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "“金元四大字家”指刘完素、张从正、朱丹溪、李杲（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "明代吴又可创立了“戾气学说”，著《温疫论》（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "宋代药王孙思邈，编著了《千金要方》（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "《本草纲目》的作者是明代张介宾（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "心其华在面。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    },
+    {
+        "content": "心主藏血，肝主血脉。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": false
+    },
+    {
+        "content": "胃喜润恶燥，脾喜燥恶湿。（  ）",
+        "type": 3,
+        "id": 0,
+        "name": "判断题",
+        "answer": true
+    }
+]

@@ -8,7 +8,11 @@ import re
 
 def boolTypeOne(topicData):
     try:
-        result = re.search(r"（([√×])）|（([对错])）", topicData).group(1)
+        resultGroupData = re.search(r"（([√×])）|（([对错])）", topicData)
+        if resultGroupData.group(1) is None:
+            result = resultGroupData.group(2)
+        else:
+            result = resultGroupData.group(1)
         newTopic = re.search("^\d{1,3}[、.]?(.*)", re.sub(r"（([√×])）|（([对错])）", "（  ）", topicData)).group(1)
         resultData = encloseResult(newTopic, result)
         if resultData:

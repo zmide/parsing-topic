@@ -8,9 +8,10 @@ from clear.startRun import *
 # 区分一批题目类型
 def distinguishTypeASFile(data: list):
     for topic in data:
-        if re.match(r".*([A-Z][、.:]?)", topic):
+        print(topic)
+        if re.match(r".*([A-Z][、.:]?)", topic.replace(" ", "")):
             yield getSelectTopicData(topic)
-        elif re.search(r"（([√×])）|（([对错])）|.*答案：[对错]", topic):
+        elif re.search(r"（([√×])）|（([对错])）| .*答案：[对错]", topic.replace(" ", "")):
             yield getBoolTopicData(topic)
         else:
             yield getFillInTopicData(topic)
