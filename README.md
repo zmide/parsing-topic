@@ -107,22 +107,22 @@ D、体育技能教育
 
 ```json
  {
-     // type 题目类型 0 单选题 1 => 多选题 3=> 判断题
+     # type 题目类型 0 单选题 1 => 多选题 3=> 判断题
      "type": 0,
-     // id 题目ID
+     # id 题目ID
      "id": 0,
-     // name  题目类型
+     # name  题目类型
      "name": "单选题",
-     // content  题干
+     # content  题干
      "content": "阴阳的最初含义是指",
-     // answer  题目答案部分
+     # answer  题目答案部分
      "answer": [
          {
-             // name 选项名称
+             # name 选项名称
              "name": "A",
-             // content 选项内容
+             # content 选项内容
              "content": "天地日月",
-             // isanswer 选项结果
+             # isanswer 选项结果
              "isanswer": false
          },
          {
