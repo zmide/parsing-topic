@@ -52,11 +52,9 @@ def getBlueprint(blueprint):
     @blueprint.route("/getResultData")
     def getResultData():
         logId = request.args.get("dataId")
-        print(logId)
         try:
             response = make_response(
                 send_from_directory("data", f"{logId}.json", as_attachment=True))
-            os.remove(os.path.join("data", f"{logId}.json"))
             return response
         except Exception:
-            pass
+            return {"code": 301, "message": "未知错误"}
