@@ -15,8 +15,8 @@ def clearLineSymbolsASFile(data: list, ERRORPath):
     for line in data:
         newLine = line.replace("\n", "").replace("\t", "") \
             .replace("\u3000", "").replace("\xa0", "") \
-            .replace("(", "（").replace(")", "）").replace("．", ".")
-        if re.match("^\d|^[A-G]|^答案|^正确答案", newLine):
+            .replace("(", "（").replace(")", "）").replace("．", ".").replace("ⅹ", "×")
+        if re.match("^\d|^[A-G]|^答案|^正确答案|①|②|③|④|⑤|⑥|（1）|（2）|（3）|（4）|（5）|（6）|^答", newLine):
             newData.append(newLine)
         else:
             if line.replace("\n", "").replace(" ", ""):

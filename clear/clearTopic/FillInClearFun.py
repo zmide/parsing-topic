@@ -9,7 +9,7 @@ import re
 
 def FillInTypeOne(topicData):
     try:
-        content = re.search(r"(.*)答案[：:](.*)", topicData)
+        content = re.search(r"(.*)答案[：:;；]?(.*)", topicData)
         topic = re.search(r"\d{1,5}[、.;]?(.*)", content.group(1)).group(1)
         result = content.group(2)
         if not result:

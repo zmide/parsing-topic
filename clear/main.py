@@ -20,6 +20,7 @@ class Main:
         for i in topicData:
             return i
 
+    # 清洗文件开始的地方
     def startFile(self, file):
         fileData = getFileData(file)
         self.setErrorLog()
@@ -30,11 +31,9 @@ class Main:
         if result is None:
             return None
         return result
-        # saveDataToJson(topicData, outputPath)
 
     def setErrorLog(self):
         self.ERRORPath = createErrorLog()
 
     def getErrorLog(self):
         return re.search(r"error(\d*).log", self.ERRORPath).group(1)
-

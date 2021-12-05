@@ -1,7 +1,7 @@
 import json
 import re
 from clear.clearTopic.selectTopicClearFun import selectTypeOne, selectTypeTwo, selectTypeThree
-from clear.clearTopic.BoolTopicClearFun import boolTypeOne, boolTypeTwo
+from clear.clearTopic.BoolTopicClearFun import boolTypeOne, boolTypeTwo, boolTypeThree
 from clear.tools.ClearOnERROR import ClearOnERROR, NotFindClearFun
 from clear.clearTopic.FillInClearFun import FillInTypeOne
 
@@ -43,6 +43,9 @@ def getBoolTopicData(topicData):
     elif re.search(r".*答案[：][√×对错]", topicData):
         result = boolTypeTwo(topicData)
         return ClearOnERROR(topicData, result)
+    elif topicData[-1] == "√" or topicData[-1] == "×" or topicData[-1] == "对" or topicData[-1] == "错":
+        result = boolTypeThree(topicData)
+        return ClearOnERROR(topicData, result)
     else:
         NotFindClearFun(topicData)
 
@@ -53,7 +56,7 @@ def getSelectTopicData(topicData):
     if re.search(".*(_答案).*", topicData):
         result = selectTypeOne(topicData)
         return ClearOnERROR(topicData, result)
-    elif re.search(r"(.*)A[、.;:]?.*答案|正确答案.*", topicData):
+    elif re.search(r"(.*)A[、.;:]?.*答案|正确答案.*|答?[.、][A-G]", topicData):
         result = selectTypeTwo(topicData)
         return ClearOnERROR(topicData, result)
     elif re.search(r"（([A-Z])）", topicData):
@@ -65,7 +68,7 @@ def getSelectTopicData(topicData):
 
 # 填空题
 def getFillInTopicData(topicData):
-    if re.search(".*答案[:：](.*)", topicData):
+    if re.search(".*答案[:：；;]?(.*)", topicData):
         result = FillInTypeOne(topicData)
         return ClearOnERROR(topicData, result)
     else:

@@ -32,9 +32,30 @@ def boolTypeOne(topicData):
 
 def boolTypeTwo(topicData):
     try:
-        newTopic = re.search("^\d{1,3}[、.]?(.*)",  re.search(r"(.*)答案.*", topicData).group(1)).group(1)
+        newTopic = re.search("^\d{1,3}[、.]?(.*)", re.search(r"(.*)答案.*", topicData).group(1)).group(1)
         result = re.search(r".*答案.?([对错√×])", topicData).group(1)
         resultData = encloseResult(newTopic, result)
+        if resultData:
+            return resultData
+        else:
+            return None
+    except AttributeError:
+        return None
+
+
+"""
+    TODO 第二种类型：
+        答案在题目的最后面：
+        例如：1.xxxxxxxxxxx()xxxx。答案：对/√
+"""
+
+
+def boolTypeThree(topicData):
+    try:
+        newTopic = re.search("^\d{1,3}[、.]?(.*)", topicData[:-1]).group(1)
+        result = topicData[-1]
+        resultData = encloseResult(newTopic, result)
+        # print(resultData)
         if resultData:
             return resultData
         else:

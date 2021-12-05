@@ -50,28 +50,54 @@ def selectTypeOne(topicData):
     answer  -> 最后的答案
 """
 
+RESULT_RE_LIST = [".*正确答案[:：.]?(.*)", ".*答案[:：.]?(.*)", ".*答[:：.]?(.*)"]
+SELECT_ITEM_RE_LIST = ["(.*)正确答案.*", "(.*)答案.*", "(.*)答.*"]
+TOPIC_CONTENT_RE_LIST = ["(.*)A[ 、.;]?.*答案.*", "(.*)A[ 、.;]?.*正确答案.*", "(.*)A[ 、.;]?.*答.*"]
+
 
 def selectTypeTwo(topicData):
     try:
-        topicContent = re.search(r"(.*)A[ 、.;]?.*答案.*|(.*)A[ 、.;]?.*正确答案.*", topicData).group(1)
+        # topicContent = re.search(r"(.*)A[ 、.;].*答案.*|(.*)A[ 、.;]?.*正确答案.*|(.*)A[ 、.;]?.*答.*", topicData).group(1)
+        # topicContent = re.search(r"(.*)A[ 、.;]?.*答案.*|(.*)A[ 、.;]?.*正确答案.*|(.*)A[ 、.;]?.*答.*", topicData).group(1)
+        # print(topicContent)
+        for topicContent_re in TOPIC_CONTENT_RE_LIST:
+            topicContent = re.search(topicContent_re, topicData)
+            if topicContent:
+                topicContent = topicContent.group(1)
+                break
+
         topic = re.search(r"\d{1,5}[、.;]?(.*)", topicContent).group(1)
         select = topicData[len(topicContent):]
-        result = re.search(r".*正确答案[:：]?(.*)", select)
-        if result is None:
-            result = re.search(r".*答案[:：]?(.*)", select)
-        result = result.group(1)
-        selectItem = re.search(r"(.*)正确答案.*", select)
-        if selectItem is None:
-            selectItem = re.search(r"(.*)答案.*", select)
-        selectItem = selectItem.group(1)
-        selectList = re.findall(r"[A-Z][.、;:：]", selectItem)
+        # 获取正确答案部分
+        for result_re in RESULT_RE_LIST:
+            result = re.search(result_re, select)
+            if result:
+                result = result.group(1)
+                break
+        for selectItem_re in SELECT_ITEM_RE_LIST:
+            selectItem = re.search(selectItem_re, select)
+            if selectItem:
+                selectItem = selectItem.group(1)
+                break
+
+        selectList = []
+        selectList_tmp = re.findall(r"[A-Z]?[.、;:：]?", selectItem)
+        for item in selectList_tmp:
+            selectFlag = re.search(r"([A-Z]).*", item)
+            if selectFlag:
+                selectList.append(selectFlag.group(1))
+        # if selectList is None:
+        #     return None
         answer = getSelectItemContent(selectItem, selectList, result)
+        # print(selectList)
         if not answer:
             return None
         return encloseResult(topic, answer)
     except AttributeError:
         # return None
         print(AttributeError)
+    # except TypeError:
+    #     print(topicData)
 
 
 """
@@ -99,6 +125,7 @@ def selectTypeThree(topicData):
         return encloseResult(newTopic, answer)
     except Exception:
         return None
+
 
 """
     :type
@@ -133,6 +160,7 @@ def getSelectItemContent(allSelectContent, selectList, result):
         return answer
     except Exception:
         return None
+
 
 """
     封装结果

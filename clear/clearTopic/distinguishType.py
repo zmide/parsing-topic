@@ -10,11 +10,12 @@ def distinguishTypeASFile(data: list):
     for topic in data:
         if re.match(r".*([A-Z][、.:]?)", topic.replace(" ", "")):
             yield getSelectTopicData(topic)
-        elif re.search(r"（([√×])）|（([对错])）| .*答案：[对错]", topic.replace(" ", "")):
+        elif re.search(r"（([√×])）|（([对错])）| .*答案：[对错]", topic.replace(" ", "")) or (
+                topic.replace(" ", "")[-1] == "√" or topic.replace(" ", "")[-1] == "×" or topic.replace(" ", "")[
+            -1] == "对" or topic.replace(" ", "")[-1] == "错"):
             yield getBoolTopicData(topic)
         else:
             yield getFillInTopicData(topic)
-
 
 # # 区分一个题目类型
 # def distinguishTypeASLine(data):
