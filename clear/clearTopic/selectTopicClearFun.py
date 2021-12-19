@@ -50,16 +50,13 @@ def selectTypeOne(topicData):
     answer  -> 最后的答案
 """
 
-RESULT_RE_LIST = [".*正确答案[:：.]?(.*)", ".*答案[:：.]?(.*)", ".*答[:：.]?(.*)"]
+RESULT_RE_LIST = [".*正确答案[:：.]?(.*)", ".*答案[:：.]?(.*)", ".*答[:：.]?(.*)", ]
 SELECT_ITEM_RE_LIST = ["(.*)正确答案.*", "(.*)答案.*", "(.*)答.*"]
 TOPIC_CONTENT_RE_LIST = ["(.*)A[ 、.;]?.*答案.*", "(.*)A[ 、.;]?.*正确答案.*", "(.*)A[ 、.;]?.*答.*"]
 
 
 def selectTypeTwo(topicData):
     try:
-        # topicContent = re.search(r"(.*)A[ 、.;].*答案.*|(.*)A[ 、.;]?.*正确答案.*|(.*)A[ 、.;]?.*答.*", topicData).group(1)
-        # topicContent = re.search(r"(.*)A[ 、.;]?.*答案.*|(.*)A[ 、.;]?.*正确答案.*|(.*)A[ 、.;]?.*答.*", topicData).group(1)
-        # print(topicContent)
         for topicContent_re in TOPIC_CONTENT_RE_LIST:
             topicContent = re.search(topicContent_re, topicData)
             if topicContent:
